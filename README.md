@@ -11,3 +11,4 @@
 3.创建connect.bat的快捷方式，将快捷方式放在启动项C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp里  
 over！  
 效果：  
+![效果图](https://github.com/123yonghu/PPSUC/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
