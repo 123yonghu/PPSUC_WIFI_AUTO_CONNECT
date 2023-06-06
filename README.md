@@ -4,7 +4,7 @@
 索性直接写了一个自动连接校园网的代码  
 使用前提：  
 1.Windows平台  
-2.python环境，无需安装额外的第三方库  
+2.安装有requests库的python3环境  
 使用方法：  
 1.下载connect.py文件，connect.bat文件  
 2.修改connect.py的第134行为自己的账号密码 account='',passwd=''  
